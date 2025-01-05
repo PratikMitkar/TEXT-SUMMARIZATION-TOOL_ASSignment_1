@@ -46,12 +46,12 @@ To run the Text Summarization Tool, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/TEXT-SUMMARIZATION-TOOL_Assignment_1.git
+   https://github.com/PratikMitkar/TEXT-SUMMARIZATION-TOOL_Assignment_1.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd text-summarization-tool
+   cd TEXT-SUMMARIZATION-TOOL_Assignment_1
    ```
 
 3. **Set Up a Virtual Environment (Optional but Recommended)**:
@@ -67,7 +67,7 @@ To run the Text Summarization Tool, follow these steps:
 
 5. **Run the Streamlit Application**:
    ```bash
-   streamlit run app.py
+   streamlit run task1.py
    ```
 
 6. **Access the Application**:
